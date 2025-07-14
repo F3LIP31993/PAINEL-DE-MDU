@@ -1,5 +1,5 @@
 {
-  "name": "painel-mdu",
+  "name": "painel-de-mdu",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
